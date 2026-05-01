@@ -1,15 +1,11 @@
 [EN](README.md) | [FR](README.fr.md)
 
-<div align="left">
-  <img src="assets/coffee-cup.png" width="80" align="left" alt="Voxel coffee cup" />
-  <br/><br/><br/>
+<img src="assets/coffee-cup.png" width="80" align="left" alt="Voxel coffee cup" />
 
-  ### Yoann Saunier
-
-  **Tech Lead & Senior Software Engineer**
-
-  `HealthTech` · `M.Sc.` · `Quebec, Canada`
-</div>
+<h3>Yoann Saunier</h3>
+<strong>Tech Lead & Senior Software Engineer</strong>
+<br/>
+<code>HealthTech</code> · <code>M.Sc.</code> · <code>Quebec, Canada</code>
 
 <br clear="left"/>
 
