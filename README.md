@@ -1,4 +1,5 @@
-[EN](README.md) | [FR](README.fr.md)
+<a href="README.md"><img src="https://img.shields.io/badge/EN-f0f6fc?style=flat-square" alt="EN" /></a>
+<a href="README.fr.md"><img src="https://img.shields.io/badge/FR-484f58?style=flat-square" alt="FR" /></a>
 
 <table>
   <tr>
@@ -70,6 +71,9 @@ Check out [ysaunier.dev](https://ysaunier.dev) for my personal platform (yes, th
   </tr>
 </table>
 
-[:globe_with_meridians: ysaunier.dev](https://ysaunier.dev) · [:briefcase: LinkedIn](https://linkedin.com/in/ysaunier) · [:email: Email](mailto:yoann@ysaunier.dev) · [:coffee: Buy me a coffee](https://buymeacoffee.com/ysaunier)
+<a href="https://ysaunier.dev"><img src="https://img.shields.io/badge/ysaunier.dev-58a6ff?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://linkedin.com/in/ysaunier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yoann@ysaunier.dev"><img src="https://img.shields.io/badge/Email-8b949e?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://buymeacoffee.com/ysaunier"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat-square&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 
 <sub>This README was typed with care and a suspicious amount of coffee.</sub>
