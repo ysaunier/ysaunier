@@ -25,7 +25,21 @@ Check out [ysaunier.dev](https://ysaunier.dev) for my personal platform (yes, th
 
 ### Tech Stack
 
-`TypeScript` `PHP` `C#` `C++` `Rust` `Python` · `Vue.js` `React` · `AWS` `GCP` `Docker` `Shell` · `Godot`
+**Backend & Systems**
+
+[![Backend](https://skillicons.dev/icons?i=ts,php,cs,cpp,rust,py&theme=dark)](https://skillicons.dev)
+
+**Frontend**
+
+[![Frontend](https://skillicons.dev/icons?i=vue,react&theme=dark)](https://skillicons.dev)
+
+**Infra & DevOps**
+
+[![Infra](https://skillicons.dev/icons?i=aws,gcp,docker,bash&theme=dark)](https://skillicons.dev)
+
+**Side quests**
+
+[![Side](https://skillicons.dev/icons?i=godot&theme=dark)](https://skillicons.dev)
 
 ### Featured Projects
 
