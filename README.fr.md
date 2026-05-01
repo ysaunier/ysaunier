@@ -9,7 +9,6 @@
 
 <br clear="left"/>
 
----
 
 Je construis des backends solides, des infrastructures qui tiennent la charge, et je sauve parfois des frontends en detresse. Aussi developpeur web freelance a mes heures.
 
@@ -57,7 +56,6 @@ Jetez un oeil a [ysaunier.dev](https://ysaunier.dev) pour ma plateforme perso (o
 | :video_game: | **isekai** | RPG aventure sous Godot 4. Generation procedurale et systemes narratifs. | GDScript, Godot 4 |
 | :classical_building: | **AI-Parlement** | Simulation parlementaire multi-agents. Des agents LLM qui debattent et votent. | Python, IA/LLM |
 
----
 
 [:globe_with_meridians: ysaunier.dev](https://ysaunier.dev) · [:briefcase: LinkedIn](https://linkedin.com/in/ysaunier) · [:email: Email](mailto:yoann@ysaunier.dev) · [:coffee: Buy me a coffee](https://buymeacoffee.com/ysaunier)
 
