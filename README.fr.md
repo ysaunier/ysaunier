@@ -1,5 +1,5 @@
-<a href="README.md"><img src="https://img.shields.io/badge/EN-484f58?style=for-the-badge" alt="EN" /></a>
-<a href="README.fr.md"><img src="https://img.shields.io/badge/FR-f0f6fc?style=for-the-badge" alt="FR" /></a>
+<a href="README.md"><img src="https://img.shields.io/badge/EN-484f58?style=flat" alt="EN" /></a>
+<a href="README.fr.md"><img src="https://img.shields.io/badge/FR-f0f6fc?style=flat" alt="FR" /></a>
 
 <table>
   <tr>
@@ -71,9 +71,9 @@ Jetez un oeil a [ysaunier.dev](https://ysaunier.dev) pour ma plateforme perso (o
   </tr>
 </table>
 
-<a href="https://ysaunier.dev"><img src="https://img.shields.io/badge/ysaunier.dev-58a6ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Site web" /></a>
-<a href="https://linkedin.com/in/ysaunier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:yoann@ysaunier.dev"><img src="https://img.shields.io/badge/Email-8b949e?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://buymeacoffee.com/ysaunier"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+<a href="https://ysaunier.dev"><img src="https://img.shields.io/badge/ysaunier.dev-58a6ff?style=flat&logo=googlechrome&logoColor=white" alt="Site web" /></a>
+<a href="https://linkedin.com/in/ysaunier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:yoann@ysaunier.dev"><img src="https://img.shields.io/badge/Email-8b949e?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://buymeacoffee.com/ysaunier"><img src="https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=flat&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
 
 <sub>Ce README a ete redige avec soin et une quantite suspecte de cafe.</sub>
